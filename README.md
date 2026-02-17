@@ -57,7 +57,7 @@ npm run dev
 ## 📷 Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage]("C:\Users\user\Pictures\Screenshots\homepage.png")
 
 ### InfographicsSection
 ![Infographics](screenshots/Ingographics.png)
