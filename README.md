@@ -66,7 +66,7 @@ npm run dev
 ![Products](./screenshots/Products.png)
 
 ### Industries Section
-![Industries](./screenshots/Industries.png)
+![Industries](Industries.png)
 
 ### Industries Inside Section
 ![IndustriesInside](./screenshots/IndustriesSection.png)
