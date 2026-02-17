@@ -55,7 +55,24 @@ npm run dev
 ---
 
 ## 📷 Screenshots
-(Add later after uploading images)
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### InfographicsSection
+![Infographics](screenshots/Ingographics.png)
+
+### Products Section
+![Products](screenshots/Products.png)
+
+### Industries Section
+![Industries](screenshots/Industries.png)
+
+### Industries Inside Section
+![IndustriesInside](screenshots/IndustriesSection.png)
+
+### Footer Section
+![Footer](screenshots/Footer.jpg.png)
 
 ---
 
