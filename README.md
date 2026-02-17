@@ -1,57 +1,16 @@
-# 🌐 React Business Website UI
+# React + Vite
 
-A modern and responsive company website UI built using React.js and Tailwind CSS.  
-This project was created as part of my frontend development practice and to understand real-world website structure, layout design, and component-based architecture.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## 🚀 Features
+Currently, two official plugins are available:
 
-- Responsive design for desktop and mobile
-- Clean and modern UI layout
-- Reusable React components
-- Structured homepage sections
-- Service and product display sections
-- Smooth layout and spacing using Tailwind CSS
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## 🛠️ Tech Stack
+## React Compiler
 
-- React.js
-- Tailwind CSS
-- JavaScript
-- HTML5
-- CSS3
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## 📌 Project Purpose
+## Expanding the ESLint configuration
 
-This project was developed to:
-- Practice real-world website UI development
-- Improve React component structuring skills
-- Learn modern frontend design techniques
-- Build a strong GitHub portfolio for placements and internships
-
-## 📂 Project Status
-
-🚧 Work in Progress  
-This website is still being improved with:
-- More sections
-- Better responsiveness
-- Performance optimization
-- Additional UI enhancements
-
-## 💡 Learning Outcomes
-
-Through this project, I gained experience in:
-- Building scalable UI components
-- Designing structured layouts
-- Using Tailwind for faster styling
-- Managing frontend project structure
-
-## 📸 Future Improvements
-
-- Add animations and transitions
-- Improve mobile responsiveness
-- Add backend integration
-- Deploy live version
-
-## 👨‍💻 Author
-
-Developed by a B.Tech student as part of frontend learning and practice projects.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.

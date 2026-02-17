@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap");
+
+
+/* GLOBAL BASE */
+
+
+body {
+  @apply bg-white text-slate-800 antialiased;
+}
+body {
+  background: radial-gradient(circle at top, #f8fafc 0%, #eef2f7 40%, #e5e9f0 100%);
+}
+
+/* TYPOGRAPHY */
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h2 {
+  font-weight: 600;
+}
+
+p {
+  line-height: 1.7;
+}
+html {
+  scroll-behavior: smooth;
+}
+/* ===== GLOBAL TYPOGRAPHY SYSTEM ===== */
+
+h1 {
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  letter-spacing: -0.015em;
+}
+
+p {
+  line-height: 1.7;
+}
+
+/* Section spacing helpers */
+.section-padding {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+@media (min-width: 768px) {
+  .section-padding {
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+  }
+}
+
+

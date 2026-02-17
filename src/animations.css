@@ -1,0 +1,15 @@
+/* HERO LOAD ANIMATION */
+.hero-animate {
+  animation: heroFadeUp 1s ease forwards;
+}
+
+@keyframes heroFadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
