@@ -72,7 +72,7 @@ npm run dev
 ![IndustriesInside](IndustriesSection.png)
 
 ### Footer Section
-![Footer](Footer.jpg.png)
+![Footer](Foooter.jpg.png)
 
 ---
 
