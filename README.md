@@ -57,22 +57,22 @@ npm run dev
 ## 📷 Screenshots
 
 ### Homepage
-![Homepage]("C:\Users\user\Pictures\Screenshots\homepage.png")
+![Homepage](C:\Users\user\Pictures\Screenshots\homepage.png)
 
 ### InfographicsSection
-![Infographics](screenshots/Ingographics.png)
+![Infographics](./screenshots/Ingographics.png)
 
 ### Products Section
-![Products](screenshots/Products.png)
+![Products](./screenshots/Products.png)
 
 ### Industries Section
-![Industries](screenshots/Industries.png)
+![Industries](./screenshots/Industries.png)
 
 ### Industries Inside Section
-![IndustriesInside](screenshots/IndustriesSection.png)
+![IndustriesInside](./screenshots/IndustriesSection.png)
 
 ### Footer Section
-![Footer](screenshots/Footer.jpg.png)
+![Footer](./screenshots/Footer.jpg.png)
 
 ---
 
