@@ -38,7 +38,7 @@ src/
 
 Clone the project
 
-git clone https://github.com/your-username/your-repo-name
+git clone https://github.com/vaid-hemun/industrial-website-design
 
 Go to project directory
 
